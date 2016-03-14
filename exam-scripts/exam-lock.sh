@@ -4,10 +4,10 @@
 # (1) It empties the LREI users' Desktop, Documents, and Download folders
 # (2) It sets up the computer's local firewall to block Internet access
 # (NOT YET IN PLACE) (3) It sets the background color to plain red
+# This script requires that the computer is running OUTSET
+# https://github.com/chilcote/outset
 # Written by:
 # Jacob Farkas
-# January 11, 2012
-# Updated:
 # March 14, 2016
 # [EMPTY DESKTOP FOLDER]
 rm -rf /Users/lrei/Desktop/*
